@@ -1,6 +1,6 @@
-# roll_dice
+# dice-roller
 
-A new Flutter project.
+First project created using Flutter.
 
 ## Getting Started
 
@@ -15,3 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Dice-Roller
+roll dice, get rolled number. yes.
